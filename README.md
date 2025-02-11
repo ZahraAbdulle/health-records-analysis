@@ -23,6 +23,3 @@ This repository explores health record data, focusing on survival probabilities,
 
 ## Dataset
 The dataset `support2-1.csv` includes anonymised health record data with variables such as survival times, hospital costs, and diagnoses. This allows for a comprehensive exploration of healthcare trends.
-
-## Contributors
-This project was created by Zahra A. Abdulle as part of a data analysis initiative.
